@@ -1,0 +1,6 @@
+dotenv
+musicbrainzngs
+mutagen
+openai
+pyacoustid
+requests
