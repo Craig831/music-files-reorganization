@@ -1,4 +1,5 @@
 dotenv
+chromaprint
 musicbrainzngs
 mutagen
 openai
